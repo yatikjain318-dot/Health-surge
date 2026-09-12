@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "id": 0, "name": "Jaipur", "state": "Rajasthan", "code": "RJ_JAI", "lat": 26.9124, "lng": 75.7873, "risk": "CRITICAL", "surge_prob": 0.87, "demand": 1426, "capacity": 1120, "shortage": 306 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[75.4, 26.6], [76.2, 26.6], [76.3, 27.2], [75.5, 27.3], [75.4, 26.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 1, "name": "Jodhpur", "state": "Rajasthan", "code": "RJ_JOD", "lat": 26.2389, "lng": 73.0243, "risk": "CRITICAL", "surge_prob": 0.76, "demand": 1045, "capacity": 850, "shortage": 195 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.4, 25.8], [73.6, 25.9], [73.5, 26.8], [72.3, 26.7], [72.4, 25.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 2, "name": "Ajmer", "state": "Rajasthan", "code": "RJ_AJM", "lat": 26.4499, "lng": 74.6399, "risk": "NORMAL", "surge_prob": 0.18, "demand": 685, "capacity": 720, "shortage": 0 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[74.2, 25.9], [75.1, 26.0], [75.0, 26.8], [74.1, 26.7], [74.2, 25.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 3, "name": "Kota", "state": "Rajasthan", "code": "RJ_KOT", "lat": 25.2138, "lng": 75.8648, "risk": "HIGH RISK", "surge_prob": 0.72, "demand": 935, "capacity": 760, "shortage": 175 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[75.4, 24.8], [76.4, 24.9], [76.3, 25.6], [75.3, 25.5], [75.4, 24.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 4, "name": "Udaipur", "state": "Rajasthan", "code": "RJ_UDA", "lat": 24.5854, "lng": 73.7125, "risk": "HIGH RISK", "surge_prob": 0.58, "demand": 745, "capacity": 680, "shortage": 65 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.2, 24.1], [74.2, 24.2], [74.1, 25.0], [73.1, 24.9], [73.2, 24.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 5, "name": "Bikaner", "state": "Rajasthan", "code": "RJ_BIK", "lat": 28.0229, "lng": 73.3119, "risk": "WATCH", "surge_prob": 0.22, "demand": 635, "capacity": 640, "shortage": 0 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.6, 27.4], [74.1, 27.5], [74.0, 28.6], [72.5, 28.5], [72.6, 27.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 6, "name": "Alwar", "state": "Rajasthan", "code": "RJ_ALW", "lat": 27.5530, "lng": 76.6346, "risk": "CRITICAL", "surge_prob": 0.81, "demand": 815, "capacity": 620, "shortage": 195 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[76.2, 27.1], [77.1, 27.2], [77.0, 28.0], [76.1, 27.9], [76.2, 27.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 7, "name": "Sikar", "state": "Rajasthan", "code": "RJ_SIK", "lat": 27.6094, "lng": 75.1398, "risk": "WATCH", "surge_prob": 0.38, "demand": 615, "capacity": 600, "shortage": 15 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[74.7, 27.2], [75.6, 27.3], [75.5, 28.0], [74.6, 27.9], [74.7, 27.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 8, "name": "Bharatpur", "state": "Rajasthan", "code": "RJ_BHA", "lat": 27.2152, "lng": 77.5030, "risk": "HIGH RISK", "surge_prob": 0.64, "demand": 620, "capacity": 550, "shortage": 70 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.0, 26.8], [77.9, 26.9], [77.8, 27.6], [76.9, 27.5], [77.0, 26.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 9, "name": "Bhilwara", "state": "Rajasthan", "code": "RJ_BHL", "lat": 25.3407, "lng": 74.6313, "risk": "WATCH", "surge_prob": 0.35, "demand": 625, "capacity": 610, "shortage": 15 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[74.2, 24.9], [75.2, 25.0], [75.1, 25.8], [74.1, 25.7], [74.2, 24.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 10, "name": "Pali", "state": "Rajasthan", "code": "RJ_PAL", "lat": 25.7711, "lng": 73.3234, "risk": "WATCH", "surge_prob": 0.28, "demand": 530, "capacity": 520, "shortage": 10 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.8, 25.2], [73.8, 25.3], [73.7, 26.1], [72.7, 26.0], [72.8, 25.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": 11, "name": "Sri Ganganagar", "state": "Rajasthan", "code": "RJ_GAN", "lat": 29.9038, "lng": 73.8772, "risk": "NORMAL", "surge_prob": 0.19, "demand": 560, "capacity": 560, "shortage": 0 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.2, 29.3], [74.4, 29.4], [74.3, 30.3], [73.1, 30.2], [73.2, 29.3]]]
+      }
+    }
+  ]
+}

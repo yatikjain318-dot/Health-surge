@@ -1,0 +1,13 @@
+district_id,district_name,base_capacity,predicted_demand,allocated_units,effective_capacity,shortage_before,shortage_after,expected_shortage_before,expected_shortage_after,shortage_reduction_pct,surge_risk,rationale
+0,District 0,57,43,0,57,0,0,0.7,0.7,0.0,0.05,Without reserve: Expected unmet demand = 0.7. With +0 reserve units: Expected unmet demand = 0.7. Shortage mitigated by 0.0%.
+1,District 1,113,131,0,113,18,18,18.1,18.1,0.0,0.247,Without reserve: Expected unmet demand = 18.1. With +0 reserve units: Expected unmet demand = 18.1. Shortage mitigated by 0.0%.
+2,District 2,120,191,26,146,71,45,71.0,45.0,36.6,0.164,Without reserve: Expected unmet demand = 71.0. With +26 reserve units: Expected unmet demand = 45.0. Shortage mitigated by 36.6%.
+3,District 3,92,140,0,92,48,48,48.0,48.0,0.0,0.132,Without reserve: Expected unmet demand = 48.0. With +0 reserve units: Expected unmet demand = 48.0. Shortage mitigated by 0.0%.
+4,District 4,68,95,0,68,27,27,27.0,27.0,0.0,0.12,Without reserve: Expected unmet demand = 27.0. With +0 reserve units: Expected unmet demand = 27.0. Shortage mitigated by 0.0%.
+5,District 5,104,135,0,104,31,31,31.0,31.0,0.0,0.107,Without reserve: Expected unmet demand = 31.0. With +0 reserve units: Expected unmet demand = 31.0. Shortage mitigated by 0.0%.
+6,District 6,85,142,27,112,57,30,57.0,30.0,47.4,0.12,Without reserve: Expected unmet demand = 57.0. With +27 reserve units: Expected unmet demand = 30.0. Shortage mitigated by 47.4%.
+7,District 7,127,133,0,127,6,6,8.7,8.7,0.0,0.05,Without reserve: Expected unmet demand = 8.7. With +0 reserve units: Expected unmet demand = 8.7. Shortage mitigated by 0.0%.
+8,District 8,67,40,0,67,0,0,0.1,0.1,0.0,0.05,Without reserve: Expected unmet demand = 0.1. With +0 reserve units: Expected unmet demand = 0.1. Shortage mitigated by 0.0%.
+9,District 9,120,125,0,120,5,5,7.0,7.0,0.0,0.05,Without reserve: Expected unmet demand = 7.0. With +0 reserve units: Expected unmet demand = 7.0. Shortage mitigated by 0.0%.
+10,District 10,139,122,0,139,0,0,0.4,0.4,0.0,0.05,Without reserve: Expected unmet demand = 0.4. With +0 reserve units: Expected unmet demand = 0.4. Shortage mitigated by 0.0%.
+11,District 11,104,140,7,111,36,29,36.0,29.0,19.4,0.12,Without reserve: Expected unmet demand = 36.0. With +7 reserve units: Expected unmet demand = 29.0. Shortage mitigated by 19.4%.

@@ -1,0 +1,25 @@
+{
+  "programme": "Integrated Disease Surveillance Programme (IDSP / IHIP)",
+  "reporting_authority": "National Centre for Disease Control (NCDC)",
+  "state": "Rajasthan",
+  "period": "2024-2026",
+  "surveillance_syndromes": [
+    "Acute Respiratory Infection (ARI) / Influenza-like Illness (ILI)",
+    "Acute Febrile Illness (AFI) / Suspected Dengue / Malaria Clusters",
+    "Gastrointestinal Outbreak Signals"
+  ],
+  "district_signals": [
+    { "district": "Jaipur", "ari_case_index": 142.5, "vector_borne_index": 128.0, "early_warning_signal": "HIGH", "cluster_detected": true },
+    { "district": "Jodhpur", "ari_case_index": 124.0, "vector_borne_index": 118.5, "early_warning_signal": "HIGH", "cluster_detected": true },
+    { "district": "Ajmer", "ari_case_index": 92.0, "vector_borne_index": 85.0, "early_warning_signal": "NORMAL", "cluster_detected": false },
+    { "district": "Kota", "ari_case_index": 136.0, "vector_borne_index": 121.0, "early_warning_signal": "HIGH", "cluster_detected": true },
+    { "district": "Udaipur", "ari_case_index": 108.0, "vector_borne_index": 98.0, "early_warning_signal": "WATCH", "cluster_detected": false },
+    { "district": "Bikaner", "ari_case_index": 95.0, "vector_borne_index": 88.0, "early_warning_signal": "NORMAL", "cluster_detected": false },
+    { "district": "Alwar", "ari_case_index": 138.0, "vector_borne_index": 130.0, "early_warning_signal": "HIGH", "cluster_detected": true },
+    { "district": "Sikar", "ari_case_index": 102.0, "vector_borne_index": 94.0, "early_warning_signal": "NORMAL", "cluster_detected": false },
+    { "district": "Bharatpur", "ari_case_index": 116.0, "vector_borne_index": 105.0, "early_warning_signal": "WATCH", "cluster_detected": false },
+    { "district": "Bhilwara", "ari_case_index": 98.0, "vector_borne_index": 91.0, "early_warning_signal": "NORMAL", "cluster_detected": false },
+    { "district": "Pali", "ari_case_index": 94.0, "vector_borne_index": 89.0, "early_warning_signal": "NORMAL", "cluster_detected": false },
+    { "district": "Sri Ganganagar", "ari_case_index": 88.0, "vector_borne_index": 84.0, "early_warning_signal": "NORMAL", "cluster_detected": false }
+  ]
+}

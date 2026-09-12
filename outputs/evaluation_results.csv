@@ -1,0 +1,5 @@
+policy,u_service,u_worst,total_unmet_demand,unmet_demand_vs_zero,is_proposed_solution
+Zero Allocation (No Reserve),0.7662,0.5625,2503,0.0,False
+Proportional Deficit Allocator,0.7989,0.6297,2150,14.1,False
+Standard Greedy Shortage,0.7924,0.6343,2143,14.4,False
+SwasthyaSurge AI (Fairness + Marginal),0.7928,0.6437,2157,13.8,True

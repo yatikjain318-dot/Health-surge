@@ -1,0 +1,19 @@
+{
+  "registry": "ABDM Health Facility Registry (HFR)",
+  "version": "2026.1",
+  "state": "Rajasthan",
+  "districts": [
+    { "name": "Jaipur", "facilities_count": 86, "district_hospitals": 3, "chc_count": 24, "total_sanctioned_beds": 1450, "operational_beds": 1120, "icu_beds": 95, "oxygen_beds": 280 },
+    { "name": "Jodhpur", "facilities_count": 62, "district_hospitals": 2, "chc_count": 18, "total_sanctioned_beds": 1100, "operational_beds": 850, "icu_beds": 70, "oxygen_beds": 210 },
+    { "name": "Ajmer", "facilities_count": 48, "district_hospitals": 1, "chc_count": 14, "total_sanctioned_beds": 880, "operational_beds": 720, "icu_beds": 55, "oxygen_beds": 180 },
+    { "name": "Kota", "facilities_count": 51, "district_hospitals": 2, "chc_count": 15, "total_sanctioned_beds": 950, "operational_beds": 760, "icu_beds": 60, "oxygen_beds": 190 },
+    { "name": "Udaipur", "facilities_count": 54, "district_hospitals": 1, "chc_count": 16, "total_sanctioned_beds": 840, "operational_beds": 680, "icu_beds": 50, "oxygen_beds": 160 },
+    { "name": "Bikaner", "facilities_count": 45, "district_hospitals": 1, "chc_count": 13, "total_sanctioned_beds": 790, "operational_beds": 640, "icu_beds": 48, "oxygen_beds": 155 },
+    { "name": "Alwar", "facilities_count": 52, "district_hospitals": 1, "chc_count": 17, "total_sanctioned_beds": 780, "operational_beds": 620, "icu_beds": 42, "oxygen_beds": 145 },
+    { "name": "Sikar", "facilities_count": 44, "district_hospitals": 1, "chc_count": 13, "total_sanctioned_beds": 740, "operational_beds": 600, "icu_beds": 40, "oxygen_beds": 140 },
+    { "name": "Bharatpur", "facilities_count": 39, "district_hospitals": 1, "chc_count": 11, "total_sanctioned_beds": 690, "operational_beds": 550, "icu_beds": 36, "oxygen_beds": 130 },
+    { "name": "Bhilwara", "facilities_count": 43, "district_hospitals": 1, "chc_count": 12, "total_sanctioned_beds": 750, "operational_beds": 610, "icu_beds": 38, "oxygen_beds": 140 },
+    { "name": "Pali", "facilities_count": 38, "district_hospitals": 1, "chc_count": 10, "total_sanctioned_beds": 640, "operational_beds": 520, "icu_beds": 32, "oxygen_beds": 120 },
+    { "name": "Sri Ganganagar", "facilities_count": 40, "district_hospitals": 1, "chc_count": 11, "total_sanctioned_beds": 700, "operational_beds": 560, "icu_beds": 35, "oxygen_beds": 130 }
+  ]
+}

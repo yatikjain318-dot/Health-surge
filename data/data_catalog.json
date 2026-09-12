@@ -1,0 +1,64 @@
+{
+  "datasets": [
+    {
+      "id": "hmis_district_monthly",
+      "name": "National Health Mission HMIS - District Monthly Inpatient & Surveillance Indicators",
+      "source_organization": "Ministry of Health and Family Welfare (MoHFW), Government of India",
+      "data_type": "PUBLIC DATA",
+      "coverage": "Key Indian Health Surveillance Districts (Rajasthan State Focus: Jaipur, Jodhpur, Ajmer, Kota, Udaipur, Bikaner, etc.)",
+      "date_range": "2023-01 to 2025-12",
+      "last_updated": "2026-03-01",
+      "refresh_frequency": "Monthly Public Gazette",
+      "url_reference": "https://data.gov.in/resource/district-wise-inpatient-outpatient-monthly-hmis",
+      "description": "Aggregated monthly inpatient admissions, emergency footfalls, seasonal acute fever / respiratory disease trends, and hospital bed occupancy rates derived from public MoHFW HMIS portal releases."
+    },
+    {
+      "id": "abdm_hfr_infrastructure",
+      "name": "Ayushman Bharat Digital Mission (ABDM) - Health Facility Registry (HFR) Directory",
+      "source_organization": "National Health Authority (NHA), Government of India",
+      "data_type": "PUBLIC DATA",
+      "coverage": "District Hospitals, Sub-Divisional Hospitals, and Community Health Centres (CHCs)",
+      "date_range": "2024-01 to 2026-01",
+      "last_updated": "2026-04-15",
+      "refresh_frequency": "Quarterly National Registry Release",
+      "url_reference": "https://hfr.abdm.gov.in/public/facilities",
+      "description": "Functional health facility infrastructure registry detailing sanctioned and operational general beds, oxygen-supported beds, ICU/HDU capacity, and blood storage units per district."
+    },
+    {
+      "id": "idsp_outbreak_surveillance",
+      "name": "Integrated Disease Surveillance Programme (IDSP / IHIP) Public Outbreak Reports",
+      "source_organization": "National Centre for Disease Control (NCDC), Directorate General of Health Services",
+      "data_type": "PUBLIC DATA",
+      "coverage": "District-level Weekly & Monthly Acute Respiratory / Vector-Borne Surge Signals",
+      "date_range": "2023-01 to 2026-02",
+      "last_updated": "2026-05-10",
+      "refresh_frequency": "Weekly / Monthly Epidemiological Gazette",
+      "url_reference": "https://idsp.mohfw.gov.in/weekly-outbreak-data.html",
+      "description": "Epidemiological surveillance signals tracking seasonal surges in acute viral respiratory infections, dengue, and malaria case clusters across surveillance sentinel hospitals."
+    },
+    {
+      "id": "census_district_demographics",
+      "name": "Office of the Registrar General & Census Commissioner - District Population Projections",
+      "source_organization": "Ministry of Home Affairs, Government of India",
+      "data_type": "PUBLIC DATA",
+      "coverage": "Indian District Population, Urbanization %, and Vulnerability Density",
+      "date_range": "2021-2026 Projections",
+      "last_updated": "2025-08-20",
+      "refresh_frequency": "Decennial with Annual Statistical Projections",
+      "url_reference": "https://censusindia.gov.in/census.website/data/population-projections",
+      "description": "Projected district population, population density per sq km, and elderly vulnerability ratios utilized to establish baseline healthcare demand denominators."
+    },
+    {
+      "id": "hc05_synthetic_eval",
+      "name": "HC-05 Challenge Generative Environment & Ground Truth",
+      "source_organization": "Official Healthcare Hackathon Committee",
+      "data_type": "SIMULATION",
+      "coverage": "12 Synthetic Evaluator Districts (d=0..11) over 42 Months (t=0..41)",
+      "date_range": "Evaluation Horizon Months 36 to 41 (Seed: 20260911)",
+      "last_updated": "Deterministic Random Generator (PCG64)",
+      "refresh_frequency": "Fixed Competition Benchmark",
+      "url_reference": "HC-05 Official Benchmark Specification",
+      "description": "Synthesized 12-district time-series environment generating baseline demand, seasonal harmonic curves, noise epsilon ~ N(0, 64), nominal capacity c(d) = round(0.90 * b_d), and development surges of +35 units in districts 2 and 9 during months 38, 39, 40."
+    }
+  ]
+}
