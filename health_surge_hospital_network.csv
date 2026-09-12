@@ -1,0 +1,13 @@
+hospital_id,hospital_name,district_name,total_beds,occupied_beds,available_beds,icu_available,status
+H001,Jaipur General Hospital,Jaipur,280,220,60,14,Operational
+H002,Ajmer General Hospital,Ajmer,225,169,56,10,Operational
+H003,Udaipur General Hospital,Udaipur,215,174,41,9,Operational
+H004,Jodhpur General Hospital,Jodhpur,245,197,48,11,Operational
+H005,Kota General Hospital,Kota,235,165,70,10,Operational
+H006,Bikaner General Hospital,Bikaner,205,154,51,8,Operational
+H007,Alwar General Hospital,Alwar,220,175,45,9,Operational
+H008,Sikar General Hospital,Sikar,200,156,44,8,Operational
+H009,Bharatpur General Hospital,Bharatpur,195,154,41,7,Operational
+H010,Bhilwara General Hospital,Bhilwara,210,154,56,8,Operational
+H011,Pali General Hospital,Pali,190,148,42,7,Operational
+H012,Sri Ganganagar General Hospital,Sri Ganganagar,200,162,38,8,Operational
